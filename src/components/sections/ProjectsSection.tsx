@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import jungleGuardImage from "@/assets/jungle-guard.jpg";
 import bloodSmellsImage from "@/assets/blood-smells.jpg";
-import closedRuinsImage from "@/assets/closed-ruins.jpg";
+import closedRuinsImage from "@/assets/closed-ruins.png";
 import voidCenturyImage from "@/assets/void-century.jpg";
 
 const ProjectsSection = () => {
